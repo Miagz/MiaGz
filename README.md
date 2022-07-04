@@ -1,6 +1,4 @@
-## Welcome to my world ୧(๑•̀⌄•́๑)૭
-
-<p>博客地址：https://www.geit.work</p>
+## Welcome
 
 <p>联系我：geitshell@foxmail.com</p>
 
